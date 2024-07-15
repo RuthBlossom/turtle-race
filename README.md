@@ -3,6 +3,11 @@
 ## Overview
 This Python script simulates a race between turtles using the Turtle graphics library. Users can place bets on the winning turtle's color, and the program will determine the winner based on random movements of the turtles.
 
+![turtle race](https://github.com/user-attachments/assets/80a8d69d-3da3-44c4-bb0e-1a19e44a5466)
+![turtle race 2](https://github.com/user-attachments/assets/3780f32f-ebd4-47e1-818c-2541daede8e4)
+![turtle race 3](https://github.com/user-attachments/assets/ee398406-8896-4313-a03a-2c7794bc57b3)
+
+
 ## Prerequisites
 - Python 3.x
 - Turtle (`pip install PythonTurtle`)
